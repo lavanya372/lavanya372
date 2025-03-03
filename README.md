@@ -58,7 +58,7 @@ Here are some projects I've worked on or am currently developing:
 
 ## 📬 Connect with Me
 
-- 💼 LinkedIn:lavanyad2129@gmail.com
+- 💼 LinkedIn:lavanya-d-gowda-a84224326
 - 🌐 Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 - 📧 Email: lavanyad2129@gmail.com
 
