@@ -58,9 +58,10 @@ Here are some projects I've worked on or am currently developing:
 
 ## 📬 Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn:lavanyad2129@gmail.com
 - 🌐 Portfolio: [Your Portfolio Link](https://yourportfolio.com)
-- 📧 Email: [Your Email Address](mailto:youremail@example.com)
+- 📧 Email: lavanyad2129@gmail.com
+
 
 ## 💡 Fun Fact
 
