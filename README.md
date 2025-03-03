@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1> am <strong>Lavanya D</strong> </h1>
+
 <!--
 **lavanya372/lavanya372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
